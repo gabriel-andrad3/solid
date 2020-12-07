@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -32,13 +33,14 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SRP/functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/OCP/correct" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="SRP.functions.correct" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\OCP\correct" />
       <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\SRP\functions" />
     </key>
   </component>
