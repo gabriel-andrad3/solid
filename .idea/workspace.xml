@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0254092a-177d-4415-b444-a91df44da376" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_solid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SRP/classes/wrong/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,12 +29,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1lL3WgFY8uKdZg2IzDrIGVmvT2w" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SRP/functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ISP/correct" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DIP.wrong" />
+      <recent name="DIP.correct" />
+      <recent name="SRP.functions.correct" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\ISP\correct" />
+      <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\DIP" />
+      <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\ISP" />
+      <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\OCP\correct" />
       <recent name="C:\Users\gabriel.andrade\Downloads\Sensedia\Tech\Mentoria\04_solid\src\SRP\functions" />
     </key>
   </component>
@@ -55,6 +61,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LSP.correct.Main" />
+      <module name="04_solid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LSP.correct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,5 +93,16 @@
       <updated>1607362577544</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
