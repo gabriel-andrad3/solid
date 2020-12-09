@@ -12,7 +12,8 @@ SOLID studies using Java with for the Sensedia Mentoring Program.
 		Single Responsability Principle (SRP)
 			§ Uma classe deve ter uma, e somente uma, responsabilidade (tarefa ou ação)
 				□ se utiliza uma classe com muitas responsabilidades, quando há necessidade de realizar alterações 
-				nessa classe, será difícil modificar uma dessas responsabilidades sem comprometer as outras. Toda alteração acaba sendo introduzida com um certo nível de incerteza em nosso sistema
+				nessa classe, será difícil modificar uma dessas responsabilidades sem comprometer as outras. 
+				Toda alteração acaba sendo introduzida com um certo nível de incerteza em nosso sistema
 			§ Exemplo prático:
 				□ Quebrar uma classe com 3 responsabilidades para 3 classes com 1 responsabilidade cada
 			§ RocketSeat acha importante
