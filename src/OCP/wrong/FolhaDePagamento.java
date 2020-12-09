@@ -4,10 +4,10 @@ public class FolhaDePagamento {
     private float saldo;
 
     public void calcular(Funcionario func) {
-        if (func instanceof ContratoClt) {
+        if (func instanceof ContratoClt) { //wrong: para cada tipo de funcionario, precisa de um novo if (quebra principio de NÃO ALTERAR)
             this.saldo = func.salario();
         }
-        if (func instanceof Estagio) {
+        else if (func instanceof Estagio) {
             this.saldo = func.bolsaAuxilio();
         }
     }

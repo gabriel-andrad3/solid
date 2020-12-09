@@ -14,4 +14,4 @@ public class Order {
     public void save() {/*...*/}
     public void update() {/*...*/}
     public void delete() {/*...*/}
-}
+} //muitas responsabilidades dentro de uma só classe
