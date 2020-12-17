@@ -1,5 +1,5 @@
 # solid
-SOLID studies using Java with for the Sensedia Mentoring Program.
+SOLID studies using Java for the Sensedia Mentoring Program.
 
 	• SOLID são cinco princípios da programação orientada a objetos que facilitam no desenvolvimento de softwares, tornando-os 
 	fáceis de manter e estender. Esses princípios podem ser aplicados a qualquer linguagem de POO.
